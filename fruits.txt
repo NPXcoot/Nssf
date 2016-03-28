@@ -1,0 +1,220 @@
+The content of this file is only in my mind for now...
+
+Insipiration, ideas and some rules are taken from One Piece universe.
+There are 4 categories of fruits that depends on the place in which you can find it and the power connected with it.
+The fruits are 25 and each fruit grants special powers and abilities. The player will die if he eats more then one fruit, when the fruiteater dies the powers and the abilities will disappear.
+The powers change the player way of living and they don't cost mana. Abilities are objects wich can't be dropped or stored in bones or chests, when used they consume mana.
+
+There are 2 different kinds of fruits: elemental fruits and metamorphosis fruits
+elemental fruits modify the inner essence of the fruiteater, metamorphosis fruits allow the eater to change his form in another one giving many ability only during the transformation!
+
+Names of abilities are very WIP because of their patheticness.
+
+Earth fruits:
+	Lava fruit:
+		Powers:
+			Fire resistance
+			Faster in lava
+			Lava regeneration (gains life near lava)
+		Abilities:
+			Lava shot(shoot a lava projectile that place a lava source when hit the ground and damage the creatures hit) 5
+			Hot spot (all the stone/cobblestone in a certain radius become lava) 50
+			Lava rain (set randomly a huge amount of lava sources in the air) 30
+			Lava shield (the fruiteater is covered by a coat of lava) 20
+			Eruption (a fountain of lava come out from the ground when a very fast invisible projectile hits the ground) 20
+			
+	Fire fruit:
+		Powers:
+			Fire resistance
+			Walk faster
+			Jump higher
+			Leaves fire particles behind
+			Fire regeneration
+		Abilities:
+			Fire ring (a ring of flames sourround the fruiteater) 10
+			Fire storm (a storm made of particles damage the creatures and set things on fire) 50
+			Flamethrower (a projectile that leaves flames behind and set damage on hit) 5
+			Overheat (all the flammable things become fire) 30
+			Sun	(a huge sphere of fire that plows heavily everything) 90
+			
+	Bloco fruit:
+		Metamorphosis--> Bloco!
+		Powers:
+			Slower
+			Higher health
+			Mine easily stone
+			Stone recovery (gains life consuming/eating stone)
+			Naturally high armored
+			Punch harder
+			
+	Stone fruit:
+		Powers:
+			Naturally high armored
+			Mine easily stone
+			Sinks in water
+			Reduced fall damage
+			Stone recovery (gains life consuming/eating stone)
+		Abilities:
+			Landslide (all the stone become falling stone (not the stone above the fruiteater obviously!) the falling stone is exactly as the other and when mined drop cobblestone, but falls) 40
+			Stone pillar (generate a little stone pillar of four blocks) 1
+			(?) Stone growth (the stone start growing) 10
+			Stone cage (the entities around the fruiteater are sourrounded by cages made of stone) 20
+			Abyss (a huge hole when the fast invisible projectile hit) 30
+			(?) Stone world (stonifie the world) 50
+			
+	Sand fruit:
+		Powers:
+			Water damage
+			Sand regeneration
+			Faster on sand
+			Jump higher (gravity reduced a lot)
+		Abilities:
+			Sand storm (particle storm)
+			Sand blade (a distance hit that damage creatures and blocks)
+			Desertify (every block become sand and falls)
+			Water absorption (absorb water and kills trees and grass)
+			Sand grave (a huge amount of sand falls from the sky above the point in which the transparent projectile hits the ground)
+			
+	Diamond fruit:
+		Powers:
+			High armor
+			Diamond recovery (gains life and mana eating diamonds)
+		Abilities:
+			Diamond fist (tool with immense damage)
+			Diamond skin (when activated the fruiteater becomes invulnerable but consume 1 mana per second)
+			Mida's diamond touch (every block become a diamond block no matter what it was)
+			Diamond shard (a fast projectile the hurt who it hit)
+			Diamond shards (many diamond shards shooted one after the other)
+			
+Water fruits:
+	Snow fruit:
+		Powers:
+			Gravity reduced
+			No fall damage
+			Snow regeneration
+		Abilities:
+			
+	Ice fruit:
+		Powers:
+			Mine easily ice
+			Faster on ice
+			Can freeze water
+			Ice regeneration
+		Abilities:
+			
+	Water fruit:
+		Powers:
+			Faster in water
+			Breathing underwater
+			Water regeneration
+		Abilities:
+			
+	Sea fruit:
+		Powers:
+			Faster in water
+			Breathing underwater
+			Water regeneration
+		Abilities:
+			
+	Mud fruit:
+		Powers:
+			Mud breathing
+			Mud regeneration
+			Faster in mud
+		Abilities:
+			
+	Dolidrosaurus fruit:
+		Metamorphosis--> Dolidrosaurus! (only underwater)
+		Powers:
+			Fastest in water
+			Powerful punch
+			Water breathing			
+			
+Life fruits:
+	Snake fruit:
+		Metamorphosis--> Echidna!
+		Powers:
+			Higher speed, health, armor and damage inflicted
+			Poison resistent
+		Abilities:
+			
+	Felucco fruit:
+		Metamorphosis--> Felucco!
+		Powers:
+			Higher speed, health, armor and damage inflicted
+		Abilities:
+			
+	Mantis fruit:
+		Metamorphosis--> Mantis!
+		Powers:
+			Higher speed, health, armor and damage inflicted
+		Abilities:
+			
+	Tarantula fruit:
+		Metamorphosis--> Tarantula!
+		Powers:
+			Higher speed, health, armor and damage inflicted
+		Abilities:
+			
+	Wood fruit:
+		Powers:
+			High armor
+			Wood tools is his hands are more powerful than diamond ones
+			Wood recovery (eats wood and leaves)
+		Abilities:
+			
+	Nature fruit:
+		Powers:
+			Wood tools is his hands are more powerful than diamond ones
+			Flora recovery (eats grass and flowers)
+		Abilities:
+			
+			
+Air fruits:
+	Fog fruit:
+		Powers:
+			Fly
+			Walk through solid blocks
+			Can't inflict or receive any kind of damage with object or his hands
+			Smoky particles around his body when hit
+		Abilities:
+			Foggy (generate a cloud of fog in wich other players slowly drown)
+			
+	Phoenix fruit:
+		Metamorphosis--> Phoenix!
+		Powers:
+			Fly fast
+			High armor and health
+			Immortal (when this fruiteater dies it will respawn in another place with all of his items and his powers)
+		Abilities:
+			Flamethrower
+			
+	Night Master fruit:
+		Metamorphosis--> Night Master!
+		Powers:
+			Fly fast
+			High armor damage inflicted and health
+		Abilities:
+			
+	Gravity fruit:
+		Powers:
+			Fly
+			No fall damage
+		Abilities:
+			
+	Wind fruit:
+		Powers:
+			Fly fast
+			Air regeneration (when largely sourrounded by air regenerate health)
+		Abilities:
+			
+	Thunder fruit:
+		Powers:
+			Fastest in air and water
+			Immunity to melee attacks
+		Abilities:
+		
+Special fruit: the black hole fruit
+	When a fruiteater eats this fruit his power disappear.
+	When a non fruiteater eats this fruit gains its powers.
+			
