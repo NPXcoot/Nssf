@@ -1,8 +1,8 @@
 The content of this file is only in my mind for now...
 
 Insipiration, ideas and some rules are taken from One Piece universe.
-There are 4 categories of fruits that depends on the place in which you can find it and the power connected with it.
-The fruits are 25 and each fruit grants special powers and abilities. The player will die if he eats more then one fruit, when the fruiteater dies the powers and the abilities will disappear.
+There are 4 categories of fruits that depends on the place in which you can find them and the power connected with them.
+The fruits are 25 and each fruit grants special powers and abilities. The player will die if he eats more than one fruit, when the fruiteater dies the powers and the abilities will disappear.
 The powers change the player way of living and they don't cost mana. Abilities are objects wich can't be dropped or stored in bones or chests, when used they consume mana.
 
 There are 2 different kinds of fruits: elemental fruits and metamorphosis fruits
