@@ -17,11 +17,11 @@ Earth fruits:
 			Faster in lava
 			Lava regeneration (gains life near lava)
 		Abilities:
-			Lava shot(shoot a lava projectile that place a lava source when hit the ground and damage the creatures hit) 5
+			Lava shot(shoots a lava projectile that places a lava source when hits the ground and damages the creatures hit) 5
 			Hot spot (all the stone/cobblestone in a certain radius become lava) 50
-			Lava rain (set randomly a huge amount of lava sources in the air) 30
+			Lava rain (sets randomly a huge amount of lava sources in the air) 30
 			Lava shield (the fruiteater is covered by a coat of lava) 20
-			Eruption (a fountain of lava come out from the ground when a very fast invisible projectile hits the ground) 20
+			Eruption (a fountain of lava comes out from the ground when a very fast invisible projectile hits the ground) 20
 			
 	Fire fruit:
 		Powers:
@@ -31,9 +31,9 @@ Earth fruits:
 			Leaves fire particles behind
 			Fire regeneration
 		Abilities:
-			Fire ring (a ring of flames sourround the fruiteater) 10
-			Fire storm (a storm made of particles damage the creatures and set things on fire) 50
-			Flamethrower (a projectile that leaves flames behind and set damage on hit) 5
+			Fire ring (a ring of flames sourrounds the fruiteater) 10
+			Fire storm (a storm made of particles damages the creatures and sets things on fire) 50
+			Flamethrower (a projectile that leaves flames behind and deals damage on hit) 5
 			Overheat (all the flammable things become fire) 30
 			Sun	(a huge sphere of fire that plows heavily everything) 90
 			
@@ -56,11 +56,11 @@ Earth fruits:
 			Stone recovery (gains life consuming/eating stone)
 		Abilities:
 			Landslide (all the stone become falling stone (not the stone above the fruiteater obviously!) the falling stone is exactly as the other and when mined drop cobblestone, but falls) 40
-			Stone pillar (generate a little stone pillar of four blocks) 1
+			Stone pillar (generates a little stone pillar of four blocks) 1
 			(?) Stone growth (the stone start growing) 10
 			Stone cage (the entities around the fruiteater are sourrounded by cages made of stone) 20
-			Abyss (a huge hole when the fast invisible projectile hit) 30
-			(?) Stone world (stonifie the world) 50
+			Abyss (a huge hole when the fast invisible projectile hits the ground) 30
+			(?) Stone world (stonifies the world) 50
 			
 	Sand fruit:
 		Powers:
@@ -70,10 +70,11 @@ Earth fruits:
 			Jump higher (gravity reduced a lot)
 		Abilities:
 			Sand storm (particle storm)
-			Sand blade (a distance hit that damage creatures and blocks)
-			Desertify (every block become sand and falls)
-			Water absorption (absorb water and kills trees and grass)
+			Sand blade (a distance hit that damages creatures and blocks)
+			Desertify (every block becomes sand and falls)
+			Water absorption (absorbs water and destroy trees and grass)
 			Sand grave (a huge amount of sand falls from the sky above the point in which the transparent projectile hits the ground)
+			(?) Sand trap (all the entities are trapped in sandstone and sand)
 			
 	Diamond fruit:
 		Powers:
@@ -82,8 +83,8 @@ Earth fruits:
 		Abilities:
 			Diamond fist (tool with immense damage)
 			Diamond skin (when activated the fruiteater becomes invulnerable but consume 1 mana per second)
-			Mida's diamond touch (every block become a diamond block no matter what it was)
-			Diamond shard (a fast projectile the hurt who it hit)
+			Mida's diamond touch (every block becomes a diamond block no matter what it was)
+			Diamond shard (a fast projectile that hurts who it hits)
 			Diamond shards (many diamond shards shooted one after the other)
 			
 Water fruits:
@@ -93,6 +94,11 @@ Water fruits:
 			No fall damage
 			Snow regeneration
 		Abilities:
+			Snowball
+			Snow storm
+			Snow wall
+			Slowing snow
+			Winter wind
 			
 	Ice fruit:
 		Powers:
@@ -137,24 +143,30 @@ Life fruits:
 			Higher speed, health, armor and damage inflicted
 			Poison resistent
 		Abilities:
+			Poison cloud (make a poison cloud around the fruiteater)
+			Poison gas (a projectile that on hit make a poison cloud)
+			Spark (all the gas is set on fire)
 			
 	Felucco fruit:
 		Metamorphosis--> Felucco!
 		Powers:
 			Higher speed, health, armor and damage inflicted
-		Abilities:
 			
 	Mantis fruit:
 		Metamorphosis--> Mantis!
 		Powers:
 			Higher speed, health, armor and damage inflicted
 		Abilities:
+			Mantis shield (mantis clay shield around the fruiteater)
 			
 	Tarantula fruit:
 		Metamorphosis--> Tarantula!
 		Powers:
 			Higher speed, health, armor and damage inflicted
+			Faster in web
 		Abilities:
+			Paralysis (paralize the the creatures that hits with his attacks)
+			Thick web (generate a huge amount of web filament in wich is faster)
 			
 	Wood fruit:
 		Powers:
@@ -162,6 +174,10 @@ Life fruits:
 			Wood tools is his hands are more powerful than diamond ones
 			Wood recovery (eats wood and leaves)
 		Abilities:
+			Wood seal (set the mana 0 for a short time (changing his skin (?)), and place a circle of wood around the opponents)
+			Wood shelter (create a wood wall around the fruiteater)
+			Wood trap (all the entities are trapped in wood blocks)
+			Wood hit (a invisible projectile that follow the nearest entity and leaves behind wood blocks, when it reaches the target it deals a great damage)
 			
 	Nature fruit:
 		Powers:
@@ -216,5 +232,5 @@ Air fruits:
 		
 Special fruit: the black hole fruit
 	When a fruiteater eats this fruit his power disappear.
-	When a non fruiteater eats this fruit gains its powers.
+	When a non fruiteater eats this fruit gains its powers. (when he kills another fruiteater he gains his powers)
 			
